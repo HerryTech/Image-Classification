@@ -9,7 +9,6 @@ An interactive web application for classifying images using a machine learning m
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Demo](#demo)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -78,20 +77,6 @@ Open your browser and go to [https://3signet-internship-fqv4rnpnqqdbhuqbtkgyur.s
 
 ## Demo
 Watch the live demo [https://www.loom.com/share/7dd0fa14f31c496ba883db1d0faef582](#).
-
-## Contributing
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message"
-   ```
-4. Push the branch and create a pull request.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
