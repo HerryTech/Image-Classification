@@ -1,4 +1,5 @@
 # Image-Classification
+An interactive web application for classifying images using a machine learning model trained on the CIFAR-100 dataset. 
 
 ---
 
