@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ```
 
 ### Download Model Weights:
-Download the pre-trained model weights from [here](#) and place them in the `models` directory.
+Download the trained model from the repository files above (optimized_model.h5) and place them in the `models` directory.
 
 ### Run the App:
 ```bash
@@ -77,7 +77,7 @@ Open your browser and go to [https://3signet-internship-fqv4rnpnqqdbhuqbtkgyur.s
 3. View the prediction and confidence score instantly.
 
 ## Demo
-Watch the live demo [here](#).
+Watch the live demo [https://www.loom.com/share/7dd0fa14f31c496ba883db1d0faef582](#).
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
